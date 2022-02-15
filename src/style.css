@@ -1,0 +1,18 @@
+
+
+.title-red{
+    color: rgba(255, 0, 0, 0.966);
+    border: bold 1px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+body {
+    background-color: rgb(54, 54, 54);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
